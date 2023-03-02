@@ -62,6 +62,6 @@ Thumbs.db.meta
 # VS Code
 *.vscode
 
-.vsconfig
 .vs
 .idea
+.vsconfig

@@ -12,6 +12,7 @@ public class ActivateTeleportationRay : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log(rightTeleportation.name.Length);
         
     }
 

@@ -6271,12 +6271,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554717924}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a0e0a7840341c9f4383baa68a32d828b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  head: {fileID: 0}
   spawnDistance: 1
   menu: {fileID: 636400184}
   showButton:
